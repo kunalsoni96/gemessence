@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818799841071",
+    "project_id": "kunal-soni",
+    "storage_bucket": "kunal-soni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818799841071:android:d7c842f4905aecccd29bda",
+        "android_client_info": {
+          "package_name": "com.gemessence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZgQ0XV72PAqWJQWHb2Hqpr6PbbvlW6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
